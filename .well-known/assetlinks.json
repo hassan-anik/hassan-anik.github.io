@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.emergent.pointchase03e0c36e",
+      "sha256_cert_fingerprints": [
+        "F6:18:88:7A:D4:EB:51:05:6A:14:BA:C4:D6:FA:0D:27:42:81:2F:74:91:C8:5C:44:41:00:96:9F:32:2F:BD:34"
+      ]
+    }
+  }
+]
